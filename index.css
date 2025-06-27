@@ -1,0 +1,19 @@
+.container{
+    background-color: red;
+    width: 600px;
+    height:200px
+}
+.c11{
+    background-color:grey;
+    height: 400px;
+    width: 600px;
+
+}
+.c1{
+    position: absolute;
+    border-radius: 500%;
+   top: 10%;
+   margin-top: 20px;
+   margin-left: 180px;
+  
+}
